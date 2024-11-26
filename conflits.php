@@ -1,3 +1,3 @@
 <?php
-    $lol = 'ftg';
+    $lol = 'salut';
 ?>
